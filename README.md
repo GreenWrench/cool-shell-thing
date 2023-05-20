@@ -5,7 +5,7 @@ I design this for only Debian/Ubuntu users (I will update this soon though)
 If you want to download this, there are a couple steps you need to do first.
 
 Step 1
-copy and paste the following:
+copy and paste the following into your terminal:
 
 Sudo apt install sl
 Sudo apt install fortune
