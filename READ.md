@@ -1,5 +1,5 @@
 # shell
-(I recommend reading this in https://raw.githubusercontent.com/GreenWrench/shell/main/README.md)
+(I recommend reading this in https://raw.githubusercontent.com/GreenWrench/shell/main/FART.md)
 
 I design this for only Debian/Ubuntu users (I will update this soon though)
 If you want to download this, there are a couple steps you need to do first.
