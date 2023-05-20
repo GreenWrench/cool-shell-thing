@@ -1,0 +1,15 @@
+sl
+xcowsay
+cowsay
+fortune
+toilet
+toilet -f mono12 -F metal fart
+yes "text"
+while true; do echo "$(date '+%D %T' | toilet -f term -F border --gay)"; sleep 1; done
+aafire
+xeyes
+telnet towel.blinkenlights.nl 23
+telnet freechess.org
+telnet telehack.com
+telnet mapscii.me
+curl wttr.in/(enter city/state here)?0

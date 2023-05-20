@@ -1,0 +1,1 @@
+Type "lolcat poopy.txt" or "./ip.sh" for more information!
