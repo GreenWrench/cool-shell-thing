@@ -1,4 +1,6 @@
 # shell
+(I recommend reading this in https://raw.githubusercontent.com/GreenWrench/shell/main/README.md)
+
 I design this for only Debian/Ubuntu users (I will update this soon though)
 If you want to download this, there are a couple steps you need to do first.
 
@@ -18,7 +20,7 @@ Sudo apt install libaa-bin
 Sudo apt install nano
 
 Step 2
-download all the files, I don't recommend downloading zip. Why? idk
+download the zip in this respository.
 
 Step 3
 Assuming you have terminal set up, go to your files and you should a thing named Linux.
@@ -56,3 +58,5 @@ echo "
 
 if you notice, where it says curl, type your city. It will display the weather.
 And of course you can edit this to whatever you want.
+
+Search up a youtube tutorial if you dont have the terminal set up.
