@@ -12,4 +12,4 @@ telnet towel.blinkenlights.nl 23
 telnet freechess.org
 telnet telehack.com
 telnet mapscii.me
-curl wttr.in/(enter city/state here)?0
+curl wttr.in/(enter city/state here)
