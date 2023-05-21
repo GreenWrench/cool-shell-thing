@@ -62,3 +62,8 @@ if you notice, where it says curl, type your city. It will display the weather.
 And of course you can edit this to whatever you want.
 
 Search up a youtube tutorial if you dont have the terminal set up.
+
+Also if you want to run ./ip.sh then first you have to do this:
+
+chmod +x ./ip.sh
+this allows you to run ./ip.sh
