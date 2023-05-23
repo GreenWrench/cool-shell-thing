@@ -16,7 +16,6 @@ sudo apt install lolcat
 sudo apt install figlet
 sudo apt install toilet
 sudo apt install libaa-bin
-sudo apt install nano
 
 Step 2
 download the zip in this respository.
@@ -26,7 +25,7 @@ Assuming you have terminal set up, go to your files and you should a thing named
 Drag and drop every single file you just downloaded and put them in there.
 
 step 4
-type nano ~/.bashrc
+type vim ~/.bashrc
 don't delete the code that's already there. Instead, type under it.
 
 Paste this: 
@@ -55,7 +54,7 @@ lolcat stinky.txt
 echo "
 "
 Step 5
-do ctrl+X to get out and you should be ready to go
+do esc and then :wq and then press enter. to get out and you should be ready to go
 
 if you notice, where it says curl, type your city. It will display the weather.
 And of course you can edit this to whatever you want.
