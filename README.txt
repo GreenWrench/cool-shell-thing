@@ -6,17 +6,17 @@ If you want to download this, there are a couple steps you need to do first.
 Step 1
 copy and paste the following into your terminal:
 
-Sudo apt install sl
-Sudo apt install fortune
-Sudo apt install neofetch
-Sudo apt install cowsay
-Sudo apt install xcowsay
-Sudo apt install telnet
-Sudo apt install lolcat
-Sudo apt install figlet
-Sudo apt install toilet
-Sudo apt install libaa-bin
-Sudo apt install nano
+sudo apt install sl
+sudo apt install fortune
+sudo apt install neofetch
+sudo apt install cowsay
+sudo apt install xcowsay
+sudo apt install telnet
+sudo apt install lolcat
+sudo apt install figlet
+sudo apt install toilet
+sudo apt install libaa-bin
+sudo apt install nano
 
 Step 2
 download the zip in this respository.
