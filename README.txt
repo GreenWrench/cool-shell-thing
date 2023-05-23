@@ -41,7 +41,7 @@ echo "
 lolcat stinkier.txt 
 echo "
 "
-curl https://wttr.in/(ENTER CITY HERE but do not put spaces. examples, newyork)?0
+curl wttr.in/(ENTER CITY HERE but do not put spaces. examples, newyork)?0
 date
 echo "
 "
