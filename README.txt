@@ -55,7 +55,8 @@ lolcat stinky.txt
 echo "
 "
 Step 5
-do esc and then ctrl+X to get out and you should be ready to go
+do ctrl+X and then enter to get out.
+open a new tab then you should be ready to go.
 
 if you notice, where it says curl, type your city. It will display the weather.
 And of course you can edit this to whatever you want.
