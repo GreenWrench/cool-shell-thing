@@ -31,7 +31,7 @@ don't delete the code that's already there. Instead, type under it.
 
 Paste this: 
 
-figlet -cl "                fart fart yuh"
+figlet -cl "                add something here"
 echo "-----------------------------------------------------------------------------------------------"
 echo "
 "
