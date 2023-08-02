@@ -16,6 +16,7 @@ sudo apt install lolcat
 sudo apt install figlet
 sudo apt install toilet
 sudo apt install libaa-bin
+sudo apt install nano
 
 Step 2
 download the files in this respository, idk if the zip works
